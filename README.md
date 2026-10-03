@@ -79,3 +79,6 @@ Make sure the backend server is running before using the application.
 
 The hardest part was connecting the frontend with the backend and PostgreSQL database while keeping the displayed data updated after adding, editing, and deleting expenses.
 Another challenging part was implementing the Monthly Spending Summary. The solution was to use the existing expense data and calculate the monthly statistics from the amount, date, and category fields without changing the database structure.
+## GitHub Repository
+
+https://github.com/m0matar/expense-tracker
